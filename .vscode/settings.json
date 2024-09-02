@@ -1,0 +1,13 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.followTagsWhenSync": true,
+    "git.rememberPostCommitCommand": true,
+    "git.useCommitInputAsStashMessage": true,
+    "git.timeline.showUncommitted": true,
+    "git.verboseCommit": true,
+    "gitHistory.hideCommitViewExplorer": true
+}
